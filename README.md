@@ -1,10 +1,10 @@
-<h1 align="center">Приветствую, меня зовут Владимир!
+<h1 align="center">Приветствую! Я Владимир Питецкий!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я изучаю язык программирования C# и делаю игры на Unity</h3>
 
 ***
 
-**Вот что я умею:**
+**Вот, что я умею:**
 <br></br>
 
 Программа позволяющая рисовать в консоли изображения - **<a href="https://github.com/wingofnight/Console_Paint" target="_blank">Console-Paint</a>** 
