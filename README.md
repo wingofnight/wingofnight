@@ -7,6 +7,9 @@
 **Вот, что я умею:**
 <br></br>
 
+Программа работающая с массивами - **<a href="https://github.com/wingofnight/tes-task" target="_blank">Test-Task</a>** 
+>*Создана в качестве тестового задания*
+
 Программа позволяющая рисовать в консоли изображения - **<a href="https://github.com/wingofnight/Console_Paint" target="_blank">Console-Paint</a>** 
 
 >*Создана для другого проекта, который будет использовать эти изображения*
