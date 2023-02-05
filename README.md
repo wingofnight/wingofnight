@@ -21,6 +21,8 @@ Unity. Прототип игры в которой нужно ловить яб�
 
 Unity. Прототип игры на подобии Angry Birds  - **<a href="https://github.com/wingofnight/Mission-Demolution" target="_blank">Mission-Demolution</a>** 
 
+Unity. Игра в которой нужно строить башню из кубиков - **<a href="https://github.com/wingofnight/CubeTower" target="_blank">CubeTower</a>**
+
 <br></br>
 **Игровая студия и проекты:**
 <br></br>
