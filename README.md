@@ -7,15 +7,20 @@
 **Вот, что я умею:**
 <br></br>
 
-Программа работающая с массивами - **<a href="https://github.com/wingofnight/tes-task" target="_blank">Test-Task</a>** 
+C#. Программа работающая с массивами - **<a href="https://github.com/wingofnight/tes-task" target="_blank">Test-Task</a>** 
 >*Создана в качестве тестового задания*
 
-Программа позволяющая рисовать в консоли изображения - **<a href="https://github.com/wingofnight/Console_Paint" target="_blank">Console-Paint</a>** 
+C#. Программа позволяющая рисовать в консоли изображения - **<a href="https://github.com/wingofnight/Console_Paint" target="_blank">Console-Paint</a>** 
 
 >*Создана для другого проекта, который будет использовать эти изображения*
 
-Программа которая рассчитывает сколько часов в неделю вам нужно потратить на определенное занятие - **<a href="https://github.com/wingofnight/Time_Organizer" target="_blank">Time_Organizer</a>** 
+C#. Программа которая рассчитывает сколько часов в неделю вам нужно потратить на определенное занятие - **<a href="https://github.com/wingofnight/Time_Organizer" target="_blank">Time_Organizer</a>** 
 >*Расчитывает согласно указанному списку заданий и свободному времени*
+
+<br />
+
+C++. Игра в уголки, с необычной стилезацией и музыкой из Doom 2016г. - **<a href="https://github.com/wingofnight/ANGULARITYv2" target="_blank">Angularity</a>** 
+>*Использовалась библиотека SFML.
 
 <br />
 
@@ -28,6 +33,8 @@ Unity. Игра в которой нужно строить башню из ку
 <br />
 
 WEB. Страница упрощающая доступ к необходимым для меня ресурсам - **<a href="https://github.com/wingofnight/private-office" target="_blank">private-office</a>**
+>*Это простая страничка (но красивая) с необходимыми ссылками для меня, доступ к которой можно получить с любого устройства.  
+
 
 ---
 
