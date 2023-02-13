@@ -8,9 +8,11 @@
 <br></br>
 
 C#. Программа работающая с массивами - **<a href="https://github.com/wingofnight/tes-task" target="_blank">Test-Task</a>** 
->*Создана в качестве тестового задания*
 
 C#.WEB. Веб версия программы работающей с массивами ↑ - **<a href="https://github.com/wingofnight/test-task-web" target="_blank">Test-Task-Web</a>**
+>*Созданы в качестве тестового задания*
+
+
 
 C#. Программа позволяющая рисовать в консоли изображения - **<a href="https://github.com/wingofnight/Console_Paint" target="_blank">Console-Paint</a>** 
 
